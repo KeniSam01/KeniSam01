@@ -113,8 +113,8 @@ Se você tem um projeto interessante ou gostaria de trabalhar juntos, não hesit
 
 <div align="center">
 
-**Feito com ❤️ por João Diniz**
+**Feito por João Diniz**
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=joaodiniz.joaodiniz)
+[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=joaodiniz&style=flat-square&color=blue)](https://github.com/joaodiniz)
 
 </div>
