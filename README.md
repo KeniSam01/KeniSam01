@@ -56,9 +56,9 @@ Sou um desenvolvedor Back End apaixonado por criar soluções web inovadoras e e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaodiniz&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeniSam01&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiniz&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeniSam01&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
