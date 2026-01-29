@@ -1,4 +1,7 @@
-# João Diniz 💻 | Desenvolvedor Back End
+<h1 align="center">João Diniz 💻 | Desenvolvedor Back End</h1>
+
+<p align="center"><img width="300" height="300" alt="personagem-joao-sem-fundo" src="https://github.com/user-attachments/assets/b5f36a4e-b5c8-4bab-886b-0e28bee9b008" /></p>
+
 
 <div align="center">
 
@@ -7,8 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaodinizcunha@gmail.com)
 
 </div>
-
----
 
 ## 👋 Sobre Mim
 
@@ -114,6 +115,7 @@ Se você tem um projeto interessante ou gostaria de trabalhar juntos, não hesit
 <div align="center">
 
 **Feito por João Diniz**
+<p align="center"><img width="300" height="300" alt="personagem-joao-irritado-transparente" src="https://github.com/user-attachments/assets/92635a54-b2df-4d62-ba42-0d5eb97ed5c1" /></p>
 
 [![Visualizações do Perfil](https://komarev.com/ghpvc/?username=joaodiniz&style=flat-square&color=blue)](https://github.com/joaodiniz)
 
